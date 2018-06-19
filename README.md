@@ -1,5 +1,7 @@
 # Smart IoT Device
 
+This repo is a companion application for a [video series from Visual Studio Toolbox](https://www.youtube.com/watch?v=A-kazyOiBvs&list=PLReL099Y5nRdiWdu_J6lVkdYWLjkfZLKk)! [Check out the videos](https://www.youtube.com/watch?v=A-kazyOiBvs&list=PLReL099Y5nRdiWdu_J6lVkdYWLjkfZLKk) for how to get started with Windows IoT Core if you'd like to see this device in action and want more information.
+
 We’ll create a Smart IoT Device application for deployment to your Windows 10 IoT Core device. This application has the following features:
 
 1. Waving in front of the proximity sensor will cause the application to recognize your face and greet you by name in the application UI. This is made possible by [Microsoft Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview?WT.mc_id=docs-vstoolbox-suhinton).
